@@ -1,4 +1,3 @@
-# glima-engsoft
 ## 👋 Olá! Eu sou Guilherme Lima  
 💻 Estudante de **Engenharia de Software** | 🔍 Focado em **Quality Assurance (QA)**  
 
